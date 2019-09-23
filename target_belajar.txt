@@ -1,4 +1,5 @@
-Senin : Boostrap,GIT
+Senin : GIT
 Selasa : SIM (Sistem Informasi Manajemen)
-Rabu : Dosen kosong 
+Rabu :
 Kamis : GNS3 
+Jumat :Triger DB
