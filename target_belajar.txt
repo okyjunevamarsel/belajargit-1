@@ -1,2 +1,4 @@
 Senin : Boostrap,GIT
-Selasa : SIM 
+Selasa : SIM (Sistem Informasi Manajemen)
+Rabu : Dosen kosong 
+Kamis : GNS3 
