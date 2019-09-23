@@ -1,5 +1,7 @@
 Senin : GIT
 Selasa : SIM (Sistem Informasi Manajemen)
-Rabu :
+
 Kamis : GNS3 
 Jumat :Triger DB
+Sabtu : oky, pulang kampung
+Minggu : oky, mandiin burung
